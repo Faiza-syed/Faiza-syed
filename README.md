@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Faiza Syed, an aspiring Machine Learning Engin
 
 💬 Ask me about:
 - Data Analytics, Machine Learning, and Python programming.
-- - Best practices for data cleaning, visualization, and building scalable ML models.
+- Best practices for data cleaning, visualization, and building scalable ML models.
 
 📫 How to reach me:
 LinkedIn: [https://www.linkedin.com/in/faiza-syed-b4509a21a/]
